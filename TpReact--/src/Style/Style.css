@@ -1,0 +1,9 @@
+@font-face {
+    font-family: aclonica;
+    src: url(./resources/Aclonica/Aclonica-Regular.ttf);
+}
+
+* {
+    font-family: aclonica;
+    
+}
